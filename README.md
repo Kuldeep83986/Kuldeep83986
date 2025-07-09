@@ -1,29 +1,34 @@
-<!-- Typing effect headline -->
+<!-- 🌟 Banner -->
+<p align="center">
+  <img src="https://github.com/Kuldeep83986/Kuldeep83986/assets/your-banner.png" alt="Banner" style="width:100%;"/>
+</p>
+
+<!-- 🧠 Typing SVG Intro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kuldeep+Kumar;Full-Stack+Developer;Web+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Contact & Links -->
+<!-- 📬 Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kuldeep-kumar-208948357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kuldeep_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kuldeep_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kuldeepkumar83986@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kuldeepkumar83986@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-kuldeepkumar83986@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-psi-ivory-94.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </p>
 
-<!-- Right aligned animated coding GIF -->
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<!-- 💻 Animated Coding GIF -->
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 🚀 About Me
 
 - 💻 Passionate **Full-Stack Developer**
 - 🧠 Currently mastering the **MERN Stack**
-- 🤝 Always open to **collaboration and learning**
+- 🤝 Open to **collaborations, internships, and freelance**
 - 🧩 Fun fact: I code between **badminton matches**
 - 📫 Reach me at: `kuldeepkumar83986@gmail.com`
 
@@ -47,29 +52,65 @@
 
 ---
 
+## 🎯 Skills Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,sass" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kuldeep83986&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<a href="https://github.com/Kuldeep83986/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep83986&repo=project-1&theme=tokyonight" />
+</a>
+<a href="https://github.com/Kuldeep83986/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep83986&repo=project-2&theme=tokyonight" />
+</a>
+
+<!-- Tip: Replace 'project-1' and 'project-2' with actual repo names -->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep83986&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep83986&show_icons=true&theme=tokyonight&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep83986&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep83986&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep83986&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep83986&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep83986&bg_color=1e1e1e&color=00bfff&line=5dbeff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep83986&bg_color=1e1e1e&color=00bfff&line=5dbeff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
+
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuldeep83986&label=Profile+Views&color=0e75b6&style=flat" alt="Kuldeep83986" />
+  <img src="https://komarev.com/ghpvc/?username=Kuldeep83986&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
-
