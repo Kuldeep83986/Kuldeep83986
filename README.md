@@ -66,8 +66,10 @@
 </div>
 
 ---
+## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Kuldeep83986/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Kuldeep83986&label=Profile+Views&color=0e75b6&style=flat" alt="Kuldeep83986" />
 </p>
+
 
