@@ -14,7 +14,7 @@
   </a>
 </p>
 
-
+<img align="right" alt="Coding" width="340" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" />
 
 ## 🚀 About Me
 
