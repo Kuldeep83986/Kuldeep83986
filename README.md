@@ -23,8 +23,8 @@
 
 - 💻 Passionate **Full-Stack Developer**
 - 🧠 Currently mastering the **MERN Stack**
-- 🤝 Open to **collaboration, internships, and mentorship**
-- 🏸 Fun fact: I play **badminton between coding sessions**
+- 🤝 Open to **collaboration and innovative opportunities**
+- 🎯 Focused on **continuous learning and writing quality code**
 - 📫 Reach me at: `kuldeepkumar83986@gmail.com`
 
 ---
@@ -72,14 +72,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep83986&bg_color=1e1e1e&color=00bfff&line=5dbeff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
----
-
-## ✨ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
